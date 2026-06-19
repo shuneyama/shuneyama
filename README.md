@@ -6,9 +6,66 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas que costuma desenv
 - 🧬 Linguagens de programação: **`Java` · `Python` · `JavaScript`**
 - 🧶 Curiosidade: **Já fiquei em Top 10 numa disputa de Sinuca!**
 
-| `Frontend` | `Backend` | `Development Tools` | `Design Tools` |
-| :---: | :---: | :---: | :---: | 
-| <img src="https://skillicons.dev/icons?i=css,html,js" height="48" /> | <img src="https://skillicons.dev/icons?i=py,java,cs,mysql" height="48" /> | <img src="https://skillicons.dev/icons?i=vscode,git,github,idea,wordpress" height="48" /> | <img src="https://skillicons.dev/icons?i=ps" height="48" /> <img src="https://img.shields.io/badge/%20-%20-7D929E?style=flat&logo=aseprite&logoColor=white" width="48" height="48" /> |
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Development Tools</th>
+    <th>Design Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3">
+        <img src="https://skillicons.dev/icons?i=css" height="48" />
+      </a>
+      <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5">
+        <img src="https://skillicons.dev/icons?i=html" height="48" />
+      </a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" height="48" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" title="Python">
+        <img src="https://skillicons.dev/icons?i=py" height="48" />
+      </a>
+      <a href="https://www.java.com" title="Java">
+        <img src="https://skillicons.dev/icons?i=java" height="48" />
+      </a>
+      <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#">
+        <img src="https://skillicons.dev/icons?i=cs" height="48" />
+      </a>
+      <a href="https://www.mysql.com" title="MySQL">
+        <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com" title="Visual Studio Code">
+        <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+      </a>
+      <a href="https://git-scm.com" title="Git">
+        <img src="https://skillicons.dev/icons?i=git" height="48" />
+      </a>
+      <a href="https://github.com" title="GitHub">
+        <img src="https://skillicons.dev/icons?i=github" height="48" />
+      </a>
+      <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA">
+        <img src="https://skillicons.dev/icons?i=idea" height="48" />
+      </a>
+      <a href="https://wordpress.org" title="WordPress">
+        <img src="https://skillicons.dev/icons?i=wordpress" height="48" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop">
+        <img src="https://skillicons.dev/icons?i=ps" height="48" />
+      </a>
+      <a href="https://www.aseprite.org" title="Aseprite">
+        <img src="https://img.shields.io/badge/%20-%20-7D929E?style=flat&logo=aseprite&logoColor=white" width="48" height="48" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
