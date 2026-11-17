@@ -1,10 +1,11 @@
 # Oii! Eu sou Shune!
 
-Eu sou um estudante de Análise e Desenvolvimento de Sistemas que costuma desenvolver modificações para certos jogos! Estou animado para começar minha carreira na área de tecnologia e desenvolver aplicativos que tenham **impacto no mundo real**.
+Sou formado em Análise e Desenvolvimento de Sistemas e desenvolvo modificações para certos jogos! Procuro vaga júnior em desenvolvimento de software para construir aplicativos que tenham **impacto no mundo real**.
+
 - 🔎 Atualmente aprendendo: **Java**
 - 📕 Trabalhando em: **Comissões de Mods para Jogos!**
-- 🧬 Linguagens de programação: **`Java` · `Python` · `JavaScript`**
-- 🧶 Curiosidade: **Já fiquei em Top 10 numa disputa de Sinuca!**
+- 🧬 Linguagens de programação: **`Java` · `Python` · `JavaScript` · `SQL`**
+- 🌐 Site: **[shuneyama.com](https://shuneyama.com)**
 
 <table align="center">
   <tr>
@@ -66,8 +67,6 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas que costuma desenv
     </td>
   </tr>
 </table>
-
-
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
