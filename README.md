@@ -70,7 +70,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e desenvolvo modificaçõe
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuneyama&theme=midnight-purple&locale=pt-br&hide_border=true&background=transparent"/>
+      <img src="https://streak-stats.demolab.com/?user=shuneyama&hide_border=true&background=transparent"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=shuneyama&theme=midnight-purple&locale=pt-br&show_icons=true&hide_border=true&count_private=true&bg_color=00000000"/>
