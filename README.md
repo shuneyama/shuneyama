@@ -5,7 +5,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e desenvolvo modificaçõe
 - 🔎 Atualmente aprendendo: **Java**
 - 📕 Trabalhando em: **Comissões de Mods para Jogos!**
 - 🧬 Linguagens de programação: **`Java` · `Python` · `JavaScript` · `SQL`**
-- 🌐 Site: **[shuneyama.com](https://shuneyama.com)**
 
 <table align="center">
   <tr>
